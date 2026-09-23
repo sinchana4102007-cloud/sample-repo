@@ -1,11 +1,2 @@
 hello world
 My name is sinchana
-GIT: Git is a distributed version control system used to track changes  in files and collaborate on software projects.
-why do we need git:
-1.track changes
-2.maintain history
-3.undo mistakes
-4.collabration
-5.backup
-6.accountability
-this is git lab
